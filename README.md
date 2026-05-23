@@ -1,35 +1,35 @@
-# 👋 Salam, mən Hüseyn! 
+# 👋 Hi, I'm Huseyn!
 
 ### 🛡️ Junior Cybersecurity Specialist | Aspiring Pentester & SOC Analyst
 
-Kiber təhlükəsizlik sahəsinə böyük marağım var və bu sahədə peşəkar biliklər əldə etmək üçün davamlı olaraq çalışıram. Hazırda şəbəkə təhlükəsizliyi, sistem zəifliklərinin analizi və pentesting istiqamətlərində özümü inkişaf etdirirəm.
+I have a deep passion for cybersecurity and am constantly working to acquire professional expertise in this field. I am currently focused on developing my skills in network security, vulnerability analysis, and penetration testing.
 
 ---
 
-## 🎖️ Sertifikatlar & Təhsil
-- 🎓 **Azərbaycan Texniki Universiteti (AzTU):** Magistr, Biznesin Təşkili və İdarə Edilməsi (Kiber Təhlükəsizlik üzrə)
-- 🎖️ **Defscope TRD:** Junior Cyber Security Specialist (Sertifikatlı)
-- 🛡️ **CompTIA Security+:** Hazırda bu beynəlxalq sertifikat üçün hazırlaşıram.
+## 🎖️ Certifications & Education
+- 🎓 **Azerbaijan Technical University (AzTU): Master's degree in Business Organization and Management (Cybersecurity focus)
+- 🎖️ **Defscope TRD: Junior Cyber Security Specialist (Certified)
+- 🛡️ **CompTIA Security+: Currently preparing for this international certification.
 
-## 🚀 Hazırda nələr edirəm?
-- 🐧 **OS:** Kali Linux mühitində penetrasiya testləri və laboratoriya işləri.
-- 🔍 **Laboratoriya:** TryHackMe və HackTheBox platformalarında real ssenarilərin həlli.
-- 📡 **Network:** Şəbəkə protokollarının təhlili və təhlükəsizlik boşluqlarının aşkar edilməsi.
+## 🚀 Current Focus
+- 🐧 **OS:** Penetration testing and laboratory work in a Kali Linux environment.
+- 🔍 **Laboratories:** Solving real-world scenarios on TryHackMe and HackTheBox platforms.
+- 📡 **Network:** Analyzing network protocols and identifying security vulnerabilities.
 
-## 🛠️ Texnoloji Alətlər & Bacarıqlar
-- **Əməliyyat Sistemləri:** Kali Linux, Windows
-- **Alətlər:** Nmap, Wireshark, Burp Suite, Metasploit
-- **Analiz:** Traffic Analysis, Web Vulnerabilities, Bash Scripting
+## 🛠️ Tools & Skills
+- **Operating Systems:** Kali Linux, Windows
+- **Tools:** Nmap, Wireshark, Burp Suite, Metasploit
+- **Analysis:** Traffic Analysis, Web Vulnerabilities, Bash Scripting
 
-## 📈 Hədəflərim
-- [ ] Beynəlxalq kiber təhlükəsizlik sertifikatlarını (eJPT, OSCP) əldə etmək.
-- [ ] Real layihələrdə kiber təhdidlərin qarşısının alınmasında iştirak etmək.
-- [ ] GitHub üzərində kiber təhlükəsizlik alətləri və sənədləri paylaşmaq.
+## 📈 Goals
+- [ ] Earn international cybersecurity certifications (eJPT, OSCP).
+- [ ] Participate in real-world projects focused on mitigating cyber threats.
+- [ ] Share cybersecurity tools and documentation on GitHub.
 
 ---
 
-## 📱 Sosial Media & Əlaqə
-- 🎥 **YouTube:** [HuseynTech](https://www.youtube.com/@HuseynTech) - Texnologiya və kiber təhlükəsizlik mövzusunda kontentlər.
+## 📱 Social Media & Contact
+- 🎥 **YouTube:** [HuseynTech](https://www.youtube.com/@HuseynTech) - Content on technology and cybersecurity
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/huseyn-abdullazade28/]
 
 
