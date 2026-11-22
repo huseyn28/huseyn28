@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Huseyn Abdullazade!
 
-### 🛡️ Technical Support Specialist (5+ Yrs) | Cybersecurity & System Administration
+### 🛡️ Technical Support Specialist (5+ Yrs) | MBA in Cybersecurity
 
 IT professional with over 5 years of hands-on experience in enterprise technical support, system administration, and network troubleshooting, combined with an MBA in Cybersecurity. Focused on Blue Team operations, security hardening, and vulnerability analysis.
 
